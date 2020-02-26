@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIM313_HW2_16489165246", "BIM313_HW2_16489165246\BIM313_HW2_16489165246.csproj", "{C34161BA-8CF5-49F1-976E-1EA314E77678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIM313_HW2_University_Management_System", "BIM313_HW2_16489165246\BIM313_HW2_University_Management_System.csproj", "{C34161BA-8CF5-49F1-976E-1EA314E77678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
