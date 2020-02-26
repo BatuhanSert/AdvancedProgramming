@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BIM313_HW2_16489165246.Properties
+namespace BIM313_HW2_University_Management_System.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace BIM313_HW2_16489165246.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BIM313_HW2_16489165246.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("BIM313_HW2_University_Management_System.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

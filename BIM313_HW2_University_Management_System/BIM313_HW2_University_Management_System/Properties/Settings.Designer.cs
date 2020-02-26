@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BIM313_HW2_16489165246.Properties
+namespace BIM313_HW2_University_Management_System.Properties
 {
 
 
